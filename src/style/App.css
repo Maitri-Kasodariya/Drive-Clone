@@ -1,0 +1,13 @@
+.title{
+    padding: 20px;
+    display:flex;
+    align-items: center;
+    background-color: aliceblue;
+    border-bottom: 1px solid black;
+}
+
+.drive-icon{
+    height:50px;
+    width:50px;
+    border-radius: 25%;
+}

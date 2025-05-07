@@ -1,0 +1,38 @@
+.breadcrumb {
+    font-size: 20px; 
+    font-weight: bold; 
+    margin: 10px 0; 
+}
+
+.breadcrumb span {
+    color: #007bff; 
+    cursor: pointer; 
+}
+
+.breadcrumb span:hover {
+    text-decoration: underline; 
+}
+
+.breadcrumb span::before {
+    content: '/'; 
+    margin: 0 5px; 
+}
+
+.backBtn{
+    margin:10px;
+    padding:10px 15px 10px 15px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+
+.search{
+    margin: 5px;
+    border: 1px solid black;
+    border-radius:20px;
+    padding:10px;
+}
