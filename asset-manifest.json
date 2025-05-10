@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Drive-Clone/static/css/main.dd2e6e54.css",
+    "main.js": "/Drive-Clone/static/js/main.5975b075.js",
+    "index.html": "/Drive-Clone/index.html",
+    "main.dd2e6e54.css.map": "/Drive-Clone/static/css/main.dd2e6e54.css.map",
+    "main.5975b075.js.map": "/Drive-Clone/static/js/main.5975b075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd2e6e54.css",
+    "static/js/main.5975b075.js"
+  ]
+}
