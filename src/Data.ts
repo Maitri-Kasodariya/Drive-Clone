@@ -19,35 +19,35 @@ export const dataDict: DataDict = {
     },
     1:{
         id:'1',
-        name:'a-folder',
+        name:'folder_1',
         type:'folder',
         child:['2','3'],
         parent:'0'
     },
     2:{
         id:'2',
-        name:'b-folder',
+        name:'Hello',
         type:'folder',
         child:['4'],
         parent:'1'
     },
     3:{
         id:'3',
-        name:'c-file',
+        name:'World',
         type:'file',
         child:[],
         parent:'1'
     },
     4:{
         id:'4',
-        name:'d-folder',
+        name:'folder_4',
         type:'folder',
         child:[],
         parent:'2'
     },
     5:{
         id:'5',
-        name:'d-folder',
+        name:'folder_5',
         type:'folder',
         child:[],
         parent:'0'
